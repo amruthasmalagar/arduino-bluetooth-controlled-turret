@@ -52,6 +52,6 @@ Academic project.
 
 ## Circuit Diagram
 
-The following diagram illustrates the connections between the Arduino board, Bluetooth module, servo motors and motor control components.
+## Circuit Diagram
 
-![Circuit Diagram](arduino-circuit-diagram.jpg)
+![Circuit Diagram](./circuit_design.jpg)
