@@ -42,6 +42,10 @@ The system uses three servo motors for pan and tilt movement and two DC motors f
 - Hands-on experience with motor interfacing.
 - Improved knowledge of mechanical and electronic integration.
 
+## Project Prototype
+
+![Bluetooth Nerf Turret](./nerf-turret-prototype.jpg)
+
 ## Academic Details
 Innovative Projects – Arduino Using Embedded C  
 Presidency University, Bengaluru  
