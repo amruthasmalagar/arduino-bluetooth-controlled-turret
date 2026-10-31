@@ -52,6 +52,4 @@ Academic project.
 
 ## Circuit Diagram
 
-## Circuit Diagram
-
-![Circuit Diagram](./circuit_design.jpg)
+![Circuit Diagram](./circuit_design.png)
