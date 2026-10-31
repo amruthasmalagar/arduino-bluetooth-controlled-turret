@@ -49,3 +49,9 @@ March 2023
 
 ## Project Status
 Academic project.
+
+## Circuit Diagram
+
+The following diagram illustrates the connections between the Arduino board, Bluetooth module, servo motors and motor control components.
+
+![Circuit Diagram](arduino-circuit-diagram.jpg)
