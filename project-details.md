@@ -1,24 +1,45 @@
-# Project Details
+# Technical Documentation
 
-## Project Name
-Bluetooth-Controlled Nerf Turret
+## 1. Project Objective
 
-## Project Description
-This project involves developing a Bluetooth-controlled turret using Arduino and Embedded C. It allows the user to control the turret's movement and firing mechanism through commands sent from a smartphone using an HC-05 Bluetooth module.
+To develop a remotely operated Nerf turret prototype using Arduino and Bluetooth communication.
 
-## Key Features
-- Wireless control using Bluetooth communication.
-- Servo motors for turret movement.
-- DC motors for the trigger mechanism.
-- Custom mechanical components designed using 3D modelling and 3D printing.
+## 2. System Architecture
 
-## Technologies Used
-- Arduino
+The system consists of a smartphone, HC-05 Bluetooth module, Arduino Uno, servo motors, and a motorized trigger mechanism.
+
+## 3. Working Principle
+
+1. The user sends control commands through a smartphone.
+2. The HC-05 Bluetooth module receives the commands.
+3. The Arduino Uno processes the received commands.
+4. The servo motors control the turret's movement.
+5. The motorized mechanism operates the trigger system.
+
+## 4. Hardware Components
+
+| Component | Purpose |
+|---|---|
+| Arduino Uno | Main controller |
+| HC-05 | Bluetooth communication |
+| Servo Motors | Turret movement |
+| DC Motors | Trigger mechanism |
+
+## 5. Software and Tools
+
+- Arduino IDE
 - Embedded C
-- HC-05 Bluetooth Module
-- Servo Motors
-- DC Motors
-- 3D Modelling and 3D Printing
+- 3D Modelling Software
 
-## Project Outcome
-The project demonstrates the use of embedded systems, wireless communication, and motor control to build a remotely operated prototype.
+## 6. Learning Outcomes
+
+- Understanding embedded system development.
+- Learning Bluetooth-based wireless communication.
+- Interfacing motors with a microcontroller.
+- Understanding hardware prototyping and 3D printing.
+
+## 7. Project Details
+
+**Domain:** Embedded Systems  
+**University:** Presidency University, Bengaluru  
+**Project Type:** Academic Project
