@@ -57,3 +57,9 @@ Academic project.
 ## Circuit Diagram
 
 ![Circuit Diagram](./circuit_design.png)
+
+## Project Demonstration
+
+Watch the Nerf Turret prototype in action:
+
+[▶ Watch Project Demonstration](./nerf-turret-demo.mp4.mp4)
