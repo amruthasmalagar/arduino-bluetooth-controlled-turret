@@ -44,7 +44,7 @@ The system uses three servo motors for pan and tilt movement and two DC motors f
 
 ## Project Prototype
 
-![Bluetooth Nerf Turret](./nerf-turret-prototype.jpg)
+![Bluetooth-Controlled Nerf Turret](./nerf-turret-prototype.jpg.jpg)
 
 ## Academic Details
 Innovative Projects – Arduino Using Embedded C  
